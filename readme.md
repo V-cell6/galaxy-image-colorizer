@@ -88,7 +88,26 @@ The application saves processed images in the following directories:
 
 ## 📷 Example Output
 
-**
+Step 1: Webpage after running the Streamlit Script
+
+*![image](https://github.com/user-attachments/assets/2ece264d-0825-4c23-83d5-a3946b92e869)*
+
+
+Step 2: Click on browse files to upload a PNG/JPG/JPEG image of the galaxy 
+
+![image](https://github.com/user-attachments/assets/be8a62e4-2fcd-4edb-9566-29332f8dc016)
+
+
+Step 3: After the image has been uploaded successfully, click on “Colorize” as shown
+
+![image](https://github.com/user-attachments/assets/1913a7ac-47ac-42e5-8ca3-0d21facc9cb6)
+
+
+Result: The Pix-2-Pix model runs in the backend to produce the colorized image 
+
+![image](https://github.com/user-attachments/assets/dede2a6f-9205-47fd-a6d2-e2b54190cc6e)
+
+
 
 ---
 
